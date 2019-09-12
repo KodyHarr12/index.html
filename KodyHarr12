@@ -6,7 +6,7 @@
   <body>
     <script>
       alert( 'Hello, world!' );
-    </scrpt>
+    </script>
     <h1>Hello World</h1>
       <p>I'm in class right now</p>
       <img src="dog.jpg" alt="dog" width"100%">
